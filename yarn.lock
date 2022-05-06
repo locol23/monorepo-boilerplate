@@ -1768,7 +1768,7 @@ __metadata:
     rimraf: ^3.0.2
     rxjs: ^7.5.5
     source-map-support: ^0.5.21
-    supertest: ^6.1.6
+    supertest: ^6.2.3
     ts-jest: 28.0.1
     ts-loader: ^9.2.3
     ts-node: ^10.0.0
@@ -6793,7 +6793,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"supertest@npm:^6.1.6":
+"supertest@npm:^6.2.3":
   version: 6.2.3
   resolution: "supertest@npm:6.2.3"
   dependencies:
