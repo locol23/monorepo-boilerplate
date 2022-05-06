@@ -1763,7 +1763,7 @@ __metadata:
     eslint-config-prettier: ^8.3.0
     eslint-plugin-prettier: ^4.0.0
     jest: 28.0.3
-    prettier: ^2.3.2
+    prettier: ^2.6.2
     reflect-metadata: ^0.1.13
     rimraf: ^3.0.2
     rxjs: ^7.2.0
@@ -5891,7 +5891,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.3.2":
+"prettier@npm:^2.6.2":
   version: 2.6.2
   resolution: "prettier@npm:2.6.2"
   bin:
