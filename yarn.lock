@@ -949,7 +949,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/schematics@npm:^8.0.0, @nestjs/schematics@npm:^8.0.3":
+"@nestjs/schematics@npm:^8.0.11, @nestjs/schematics@npm:^8.0.3":
   version: 8.0.11
   resolution: "@nestjs/schematics@npm:8.0.11"
   dependencies:
@@ -1751,7 +1751,7 @@ __metadata:
     "@nestjs/common": ^8.4.4
     "@nestjs/core": ^8.4.4
     "@nestjs/platform-express": ^8.4.4
-    "@nestjs/schematics": ^8.0.0
+    "@nestjs/schematics": ^8.0.11
     "@nestjs/testing": ^8.4.4
     "@types/express": ^4.17.13
     "@types/jest": 27.5.0
