@@ -2884,7 +2884,7 @@ __metadata:
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
     ts-node: ^10.8.1
-    typescript: ~3.9.7
+    typescript: ~3.9.10
   bin:
     cdk: bin/cdk.js
   languageName: unknown
@@ -9173,7 +9173,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:~3.9.7":
+"typescript@npm:~3.9.10":
   version: 3.9.10
   resolution: "typescript@npm:3.9.10"
   bin:
@@ -9203,7 +9203,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@~3.9.7#~builtin<compat/typescript>":
+"typescript@patch:typescript@~3.9.10#~builtin<compat/typescript>":
   version: 3.9.10
   resolution: "typescript@patch:typescript@npm%3A3.9.10#~builtin<compat/typescript>::version=3.9.10&hash=7ad353"
   bin:
