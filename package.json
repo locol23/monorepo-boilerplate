@@ -6,7 +6,8 @@
     "frontend/apps/*",
     "frontend/libs/*",
     "bff/services/*",
-    "bff/libs/*"
+    "bff/libs/*",
+    "infrastructure/**/*"
   ],
   "scripts": {
     "clean": "bazel clean",
