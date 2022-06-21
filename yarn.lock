@@ -1105,7 +1105,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/common@npm:^8.4.6":
+"@nestjs/common@npm:^8.4.7":
   version: 8.4.7
   resolution: "@nestjs/common@npm:8.4.7"
   dependencies:
@@ -1130,7 +1130,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/core@npm:^8.4.6":
+"@nestjs/core@npm:^8.4.7":
   version: 8.4.7
   resolution: "@nestjs/core@npm:8.4.7"
   dependencies:
@@ -1159,7 +1159,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/platform-express@npm:^8.4.6":
+"@nestjs/platform-express@npm:^8.4.7":
   version: 8.4.7
   resolution: "@nestjs/platform-express@npm:8.4.7"
   dependencies:
@@ -1190,7 +1190,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/testing@npm:^8.4.6":
+"@nestjs/testing@npm:^8.4.7":
   version: 8.4.7
   resolution: "@nestjs/testing@npm:8.4.7"
   dependencies:
@@ -2189,11 +2189,11 @@ __metadata:
   resolution: "aggregation@workspace:bff/services/aggregation"
   dependencies:
     "@nestjs/cli": ^8.2.6
-    "@nestjs/common": ^8.4.6
-    "@nestjs/core": ^8.4.6
-    "@nestjs/platform-express": ^8.4.6
+    "@nestjs/common": ^8.4.7
+    "@nestjs/core": ^8.4.7
+    "@nestjs/platform-express": ^8.4.7
     "@nestjs/schematics": ^8.0.11
-    "@nestjs/testing": ^8.4.6
+    "@nestjs/testing": ^8.4.7
     "@types/express": ^4.17.13
     "@types/jest": 28.1.1
     "@types/node": ^16.11.39
@@ -7643,7 +7643,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"qs@npm:6.10.3":
+"qs@npm:6.10.3, qs@npm:^6.10.3":
   version: 6.10.3
   resolution: "qs@npm:6.10.3"
   dependencies:
@@ -7656,15 +7656,6 @@ __metadata:
   version: 6.9.3
   resolution: "qs@npm:6.9.3"
   checksum: 89cd1b5e521c19a7e0a7a056ddc261c5c30889664608cf9ce6085f9f25606fc48568cf6a6249e641b4b5c04dac7889e3b82133142523abf397228eb4f488fc38
-  languageName: node
-  linkType: hard
-
-"qs@npm:^6.10.3":
-  version: 6.10.5
-  resolution: "qs@npm:6.10.5"
-  dependencies:
-    side-channel: ^1.0.4
-  checksum: b3873189a11bcf48445864b3ba66f7a76db0d9d874955d197779f561addfa604884f7b107971526ce1eca02c99bf7d1e47f28a3e7e6e29204d798fb279164226
   languageName: node
   linkType: hard
 
