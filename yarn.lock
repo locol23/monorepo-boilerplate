@@ -2882,7 +2882,7 @@ __metadata:
     constructs: ^10.0.130
     jest: ^27.5.1
     source-map-support: ^0.5.21
-    ts-jest: ^27.1.4
+    ts-jest: ^27.1.5
     ts-node: ^10.8.1
     typescript: ~3.9.7
   bin:
@@ -8802,7 +8802,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-jest@npm:^27.1.4":
+"ts-jest@npm:^27.1.5":
   version: 27.1.5
   resolution: "ts-jest@npm:27.1.5"
   dependencies:
