@@ -1132,7 +1132,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/cli@npm:^8.2.6":
+"@nestjs/cli@npm:^8.2.8":
   version: 8.2.8
   resolution: "@nestjs/cli@npm:8.2.8"
   dependencies:
@@ -2247,7 +2247,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "aggregation@workspace:bff/services/aggregation"
   dependencies:
-    "@nestjs/cli": ^8.2.6
+    "@nestjs/cli": ^8.2.8
     "@nestjs/common": ^8.4.7
     "@nestjs/core": ^8.4.7
     "@nestjs/platform-express": ^8.4.7
@@ -3905,8 +3905,8 @@ __metadata:
   linkType: hard
 
 "eslint-plugin-prettier@npm:^4.0.0":
-  version: 4.1.0
-  resolution: "eslint-plugin-prettier@npm:4.1.0"
+  version: 4.2.1
+  resolution: "eslint-plugin-prettier@npm:4.2.1"
   dependencies:
     prettier-linter-helpers: ^1.0.0
   peerDependencies:
@@ -3915,7 +3915,7 @@ __metadata:
   peerDependenciesMeta:
     eslint-config-prettier:
       optional: true
-  checksum: 3f731b9988383851f1a42bd67a093461886fc56dc5d0ca4c72bdd0755dc0f843faedde843c1812710a75782a9711096aad22b6140fe7d6f996cc4a672c8b3643
+  checksum: b9e839d2334ad8ec7a5589c5cb0f219bded260839a857d7a486997f9870e95106aa59b8756ff3f37202085ebab658de382b0267cae44c3a7f0eb0bcc03a4f6d6
   languageName: node
   linkType: hard
 
@@ -6577,9 +6577,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^7.7.1":
-  version: 7.10.2
-  resolution: "lru-cache@npm:7.10.2"
-  checksum: b8f98064c981ce98e2a3b82903726dd28d842f54b7f53e1d6029c6836546243d4157b8495a405c062209715c612050150bdf30b5fa8200d5a3559fb0fd4072c1
+  version: 7.12.0
+  resolution: "lru-cache@npm:7.12.0"
+  checksum: fdb62262978393df7a4bd46a072bc5c3808c50ca5a347a82bb9459410efd841b7bae50655c3cf9004c70d12c756cf6d018f6bff155a16cdde9eba9a82899b5eb
   languageName: node
   linkType: hard
 
@@ -8048,7 +8048,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"safe-buffer@npm:5.2.1, safe-buffer@npm:~5.2.0":
+"safe-buffer@npm:5.2.1":
   version: 5.2.1
   resolution: "safe-buffer@npm:5.2.1"
   checksum: b99c4b41fdd67a6aaf280fcd05e9ffb0813654894223afb78a31f14a19ad220bba8aba1cb14eddce1fcfb037155fe6de4e861784eb434f7d11ed58d1e70dd491
@@ -8493,16 +8493,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"string_decoder@npm:^1.1.1":
-  version: 1.3.0
-  resolution: "string_decoder@npm:1.3.0"
-  dependencies:
-    safe-buffer: ~5.2.0
-  checksum: 8417646695a66e73aefc4420eb3b84cc9ffd89572861fe004e6aeb13c7bc00e2f616247505d2dbbef24247c372f70268f594af7126f43548565c68c117bdeb56
-  languageName: node
-  linkType: hard
-
-"string_decoder@npm:~1.1.1":
+"string_decoder@npm:^1.1.1, string_decoder@npm:~1.1.1":
   version: 1.1.1
   resolution: "string_decoder@npm:1.1.1"
   dependencies:
