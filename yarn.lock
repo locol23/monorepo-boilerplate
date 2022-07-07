@@ -1784,7 +1784,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:18.0.14":
+"@types/react@npm:*":
+  version: 18.0.15
+  resolution: "@types/react@npm:18.0.15"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: e22cc388d1c145aa184787e44dc28db4789976c704cd5db475c170bb76a560eb81def5f346cfe750949bb3d43ad88822b8cbb9f19b1286e3795892a8263e7715
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:18.0.14":
   version: 18.0.14
   resolution: "@types/react@npm:18.0.14"
   dependencies:
@@ -2954,7 +2965,7 @@ __metadata:
     "@types/prettier": 2.6.3
     aws-cdk: 2.28.1
     aws-cdk-lib: 2.28.1
-    constructs: ^10.1.42
+    constructs: ^10.1.43
     jest: ^27.5.1
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
@@ -3236,10 +3247,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"constructs@npm:^10.1.42":
-  version: 10.1.42
-  resolution: "constructs@npm:10.1.42"
-  checksum: c2ab6078fa4d6672506a8de35d66156429aba3ac68ae5e46a7559a1440d7e189361a7776ddf9311a5be361ff9bf0682089b2bc7a0f9e8b43e0aa8f2272b5ddb2
+"constructs@npm:^10.1.43":
+  version: 10.1.43
+  resolution: "constructs@npm:10.1.43"
+  checksum: b67a00213295704f2b2002712652c5eecd25f812d11a9c6d0e1dcb2b0426b89e2f6b3553ab30e99bc8d0722ca933eef18285c5d4488506361b657048ce3c8aa8
   languageName: node
   linkType: hard
 
@@ -6437,12 +6448,12 @@ __metadata:
   linkType: hard
 
 "jsx-ast-utils@npm:^2.4.1 || ^3.0.0, jsx-ast-utils@npm:^3.3.1":
-  version: 3.3.1
-  resolution: "jsx-ast-utils@npm:3.3.1"
+  version: 3.3.2
+  resolution: "jsx-ast-utils@npm:3.3.2"
   dependencies:
     array-includes: ^3.1.5
     object.assign: ^4.1.2
-  checksum: 1d4b32fd24bbba561d5ca5c8d6ea095be646f83fc357d6f0cd2752f97f3ba0e0ffabc2f54b37a9d98258fc8ec0e1286cb7723cc1c9dc7af402d74fff72ae0a2b
+  checksum: 61d4596d44480afc03ae0a7ebb272aa6603dc4c3645805dea0fc8d9f0693542cd0959f3ba7c0c9b16c13dd5a900c7c4310108bada273132a8355efe3fed22064
   languageName: node
   linkType: hard
 
