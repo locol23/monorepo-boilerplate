@@ -2288,7 +2288,7 @@ __metadata:
     supertest: ^6.2.4
     ts-jest: 28.0.5
     ts-loader: ^9.3.1
-    ts-node: ^10.8.1
+    ts-node: ^10.8.2
     tsconfig-paths: 4.0.0
     typescript: ^4.7.4
   languageName: unknown
@@ -2959,7 +2959,7 @@ __metadata:
     jest: ^27.5.1
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
-    ts-node: ^10.8.1
+    ts-node: ^10.8.2
     typescript: ~3.9.10
   bin:
     cdk: bin/cdk.js
@@ -3291,9 +3291,9 @@ __metadata:
   linkType: hard
 
 "core-js-pure@npm:^3.20.2":
-  version: 3.23.3
-  resolution: "core-js-pure@npm:3.23.3"
-  checksum: 09a477a56963ca4409ca383d36429ea3b51b658ff85e94331a510543c77c4d1b44cb6b305b0f185d729eb059c71f1289c62fdec6371ff46ce838a16988cdcb2e
+  version: 3.23.4
+  resolution: "core-js-pure@npm:3.23.4"
+  checksum: 54afc79508ded6c1b59aacdf32fc1621f0246b10401e6228e7b145fe3960335c8863580e6ce8560bb8004aa69ea2328a5baa11d2e15965b6333b8fd839657601
   languageName: node
   linkType: hard
 
@@ -8914,9 +8914,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.8.1":
-  version: 10.8.1
-  resolution: "ts-node@npm:10.8.1"
+"ts-node@npm:^10.8.2":
+  version: 10.8.2
+  resolution: "ts-node@npm:10.8.2"
   dependencies:
     "@cspotcode/source-map-support": ^0.8.0
     "@tsconfig/node10": ^1.0.7
@@ -8948,7 +8948,7 @@ __metadata:
     ts-node-script: dist/bin-script.js
     ts-node-transpile-only: dist/bin-transpile.js
     ts-script: dist/bin-script-deprecated.js
-  checksum: 7d1aa7aa3ae1c0459c4922ed0dbfbade442cfe0c25aebaf620cdf1774f112c8d7a9b14934cb6719274917f35b2c503ba87bcaf5e16a0d39ba0f68ce3e7728363
+  checksum: 1eede939beed9f4db35bcc88d78ef803815b99dcdbed1ecac728d861d74dc694918a7f0f437aa08d026193743a31e7e00e2ee34f875f909b5879981c1808e2a7
   languageName: node
   linkType: hard
 
