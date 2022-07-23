@@ -1709,17 +1709,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^16.11.45":
+"@types/node@npm:*, @types/node@npm:16.11.45, @types/node@npm:^16.11.45":
   version: 16.11.45
   resolution: "@types/node@npm:16.11.45"
   checksum: 57d61c951024f66d796e71e4a972faef266007398cd4e93a195822fea2d5deb41d0615f394a99ece89772b145ff057321d138c7e3442455dc7d785ff67cebde3
-  languageName: node
-  linkType: hard
-
-"@types/node@npm:10.17.60":
-  version: 10.17.60
-  resolution: "@types/node@npm:10.17.60"
-  checksum: 2cdb3a77d071ba8513e5e8306fa64bf50e3c3302390feeaeff1fd325dd25c8441369715dfc8e3701011a72fed5958c7dfa94eb9239a81b3c286caa4d97db6eef
   languageName: node
   linkType: hard
 
@@ -2985,7 +2978,7 @@ __metadata:
   resolution: "cdk@workspace:infrastructure/codes/cdk"
   dependencies:
     "@types/jest": ^27.5.2
-    "@types/node": 10.17.60
+    "@types/node": 16.11.45
     "@types/prettier": 2.6.3
     aws-cdk: 2.28.1
     aws-cdk-lib: 2.28.1
