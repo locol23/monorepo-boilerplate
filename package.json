@@ -1,7 +1,7 @@
 {
   "name": "monorepo-boilerplate",
   "private": true,
-  "packageManager": "yarn@3.2.1",
+  "packageManager": "yarn@3.2.2",
   "workspaces": [
     "frontend/apps/*",
     "frontend/libs/*",
