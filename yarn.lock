@@ -513,13 +513,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@bazel/bazelisk@npm:^1.12.0":
-  version: 1.12.0
-  resolution: "@bazel/bazelisk@npm:1.12.0"
+"@bazel/bazelisk@npm:^1.12.1":
+  version: 1.12.1
+  resolution: "@bazel/bazelisk@npm:1.12.1"
   bin:
     bazel: bazelisk.js
     bazelisk: bazelisk.js
-  checksum: 043082fdc1ecae7a0e32eaf5c216f46d47c9319d09253bc8833412a25ffc8465359c217132224b6d7bda0489c66dd537b731d4dc5a288b47ba40f8ecab6ba26b
+  checksum: cac778b9eecc06c78b0e866bb5d39aa63948e24517fc4a3413044172a7c91f4e80d9fadbe7741f63b81e22cb88e8f18b54d0532bced69c063807d5af40412e9b
   languageName: node
   linkType: hard
 
@@ -2918,8 +2918,8 @@ __metadata:
   linkType: hard
 
 "cacache@npm:^16.1.0":
-  version: 16.1.2
-  resolution: "cacache@npm:16.1.2"
+  version: 16.1.3
+  resolution: "cacache@npm:16.1.3"
   dependencies:
     "@npmcli/fs": ^2.1.0
     "@npmcli/move-file": ^2.0.0
@@ -2938,8 +2938,8 @@ __metadata:
     rimraf: ^3.0.2
     ssri: ^9.0.0
     tar: ^6.1.11
-    unique-filename: ^1.1.1
-  checksum: defe1d6f557ddda178204cac111990da27e8a60ed276fcd608dad7109cc1936e7dcd57d7263d22cdb06a80e7ceb76ab5eb05133c7c7f886abf1d870d722abd6c
+    unique-filename: ^2.0.0
+  checksum: d91409e6e57d7d9a3a25e5dcc589c84e75b178ae8ea7de05cbf6b783f77a5fae938f6e8fda6f5257ed70000be27a681e1e44829251bfffe4c10216002f8f14e6
   languageName: node
   linkType: hard
 
@@ -6927,7 +6927,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "monorepo-boilerplate@workspace:."
   dependencies:
-    "@bazel/bazelisk": ^1.12.0
+    "@bazel/bazelisk": ^1.12.1
     "@bazel/buildifier": ^5.1.0
     "@bazel/ibazel": ^0.16.2
     npm-run-all: ^4.1.5
@@ -9332,16 +9332,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unique-filename@npm:^1.1.1":
-  version: 1.1.1
-  resolution: "unique-filename@npm:1.1.1"
+"unique-filename@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "unique-filename@npm:2.0.0"
   dependencies:
-    unique-slug: ^2.0.0
-  checksum: cf4998c9228cc7647ba7814e255dec51be43673903897b1786eff2ac2d670f54d4d733357eb08dea969aa5e6875d0e1bd391d668fbdb5a179744e7c7551a6f80
+    unique-slug: ^2.0.2
+  checksum: 801d5255b21e8be0b25c6c063df7c8d5e2d2dd295a466701ff6ffd31d86db4ece6cf4f0a3271374e48d8e26009163907fbed975195d4106bf5ca43b0923d74a0
   languageName: node
   linkType: hard
 
-"unique-slug@npm:^2.0.0":
+"unique-slug@npm:^2.0.2":
   version: 2.0.2
   resolution: "unique-slug@npm:2.0.2"
   dependencies:
