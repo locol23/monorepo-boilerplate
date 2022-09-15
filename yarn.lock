@@ -2596,9 +2596,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.33.0":
-  version: 2.33.0
-  resolution: "aws-cdk-lib@npm:2.33.0"
+"aws-cdk-lib@npm:2.41.0":
+  version: 2.41.0
+  resolution: "aws-cdk-lib@npm:2.41.0"
   dependencies:
     "@balena/dockerignore": ^1.0.2
     case: 1.6.3
@@ -2611,13 +2611,13 @@ __metadata:
     yaml: 1.10.2
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 91d572131446f64136aff93ba3c6c8759d98fb855e528926e642e7e328bf0963c998a6b37990b6023f8496814233b774b58d7a36c420c24b73e052824d6f9dda
+  checksum: 72b12dc4b81fdb943b092fd5f617b1a4867144fb1aa1f2b316f24018fcd77e94bd3c9ad3e4053c021d75c5e92d10497f2c5ff1dec33f2ccce2d466ed01044ad0
   languageName: node
   linkType: hard
 
-"aws-cdk@npm:2.33.0":
-  version: 2.33.0
-  resolution: "aws-cdk@npm:2.33.0"
+"aws-cdk@npm:2.41.0":
+  version: 2.41.0
+  resolution: "aws-cdk@npm:2.41.0"
   dependencies:
     fsevents: 2.3.2
   dependenciesMeta:
@@ -2625,7 +2625,7 @@ __metadata:
       optional: true
   bin:
     cdk: bin/cdk
-  checksum: 7d3c6f1385586e01c6e645f7af9582967188320f9e2ffdc99cd177fd723bed8314194f2de66c605727f79968a56fab74363cb35af3d128a61b7ce5b077b349f0
+  checksum: 92c0a68e3c92c02d89f435a0547bea5b0f8f521def02776ed70cc130af4ec4b431e423233c88056b61e1308166e73738e128e293bade195d6fb744ae18ed4218
   languageName: node
   linkType: hard
 
@@ -3002,8 +3002,8 @@ __metadata:
     "@types/jest": ^27.5.2
     "@types/node": 10.17.60
     "@types/prettier": 2.7.0
-    aws-cdk: 2.33.0
-    aws-cdk-lib: 2.33.0
+    aws-cdk: 2.41.0
+    aws-cdk-lib: 2.41.0
     constructs: ^10.1.43
     jest: ^27.5.1
     source-map-support: ^0.5.21
