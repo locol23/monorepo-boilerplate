@@ -2585,9 +2585,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.45.0":
-  version: 2.45.0
-  resolution: "aws-cdk-lib@npm:2.45.0"
+"aws-cdk-lib@npm:2.46.0":
+  version: 2.46.0
+  resolution: "aws-cdk-lib@npm:2.46.0"
   dependencies:
     "@balena/dockerignore": ^1.0.2
     case: 1.6.3
@@ -2596,17 +2596,17 @@ __metadata:
     jsonschema: ^1.4.1
     minimatch: ^3.1.2
     punycode: ^2.1.1
-    semver: ^7.3.7
+    semver: ^7.3.8
     yaml: 1.10.2
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 69623be2b77f920b14b8692a156747699571c79e3168eeb7cecf29154089d242dc4ca35b32ef9e050c90c825683849009afa7fc273f5a3c7a34246e2acdb3bee
+  checksum: 2f096ee40073f38fe4e7ba00f7e8757e1258865421c90361501f9a51551740ceada34b91999249586219b9b8b9ca876015b3d72471defd1624d000e1ad7d511e
   languageName: node
   linkType: hard
 
-"aws-cdk@npm:2.45.0":
-  version: 2.45.0
-  resolution: "aws-cdk@npm:2.45.0"
+"aws-cdk@npm:2.46.0":
+  version: 2.46.0
+  resolution: "aws-cdk@npm:2.46.0"
   dependencies:
     fsevents: 2.3.2
   dependenciesMeta:
@@ -2614,7 +2614,7 @@ __metadata:
       optional: true
   bin:
     cdk: bin/cdk
-  checksum: 3880d33faa94a811bf28de5cb670affb47acd933c37fe5409da68716f6c394c0ac389e555a7ef634ccf3e9f0c58a37f0232244e77eca31c9a2ef36aae644ab21
+  checksum: 0eb3438087377f901c392865f5269319aadee566ee778b2f6c46eef54bf084dd5beba332cd43e13e9b34740f9a42221314b8e1308e1db6018207d8cdd28507df
   languageName: node
   linkType: hard
 
@@ -2991,8 +2991,8 @@ __metadata:
     "@types/jest": ^27.5.2
     "@types/node": 10.17.60
     "@types/prettier": 2.7.1
-    aws-cdk: 2.45.0
-    aws-cdk-lib: 2.45.0
+    aws-cdk: 2.46.0
+    aws-cdk-lib: 2.46.0
     constructs: ^10.1.133
     jest: ^27.5.1
     source-map-support: ^0.5.21
@@ -8298,6 +8298,17 @@ __metadata:
   bin:
     semver: ./bin/semver.js
   checksum: 1b26ecf6db9e8292dd90df4e781d91875c0dcc1b1909e70f5d12959a23c7eebb8f01ea581c00783bbee72ceeaad9505797c381756326073850dc36ed284b21b9
+  languageName: node
+  linkType: hard
+
+"semver@npm:^7.3.8":
+  version: 7.3.8
+  resolution: "semver@npm:7.3.8"
+  dependencies:
+    lru-cache: ^6.0.0
+  bin:
+    semver: bin/semver.js
+  checksum: ba9c7cbbf2b7884696523450a61fee1a09930d888b7a8d7579025ad93d459b2d1949ee5bbfeb188b2be5f4ac163544c5e98491ad6152df34154feebc2cc337c1
   languageName: node
   linkType: hard
 
