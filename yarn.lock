@@ -1814,14 +1814,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:*, @types/react@npm:18.0.21":
-  version: 18.0.21
-  resolution: "@types/react@npm:18.0.21"
+"@types/react@npm:*, @types/react@npm:18.0.26":
+  version: 18.0.26
+  resolution: "@types/react@npm:18.0.26"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: 36c1a7c9d507e81e2e629c1ad3db51d7b84d8b010c2d5008da411874286c6a5ccc711ae1d4c470efc0bdc77153cc8804a40e927e929e5164c669ca41b84b846d
+  checksum: b62f0ea3cdfa68e106391728325057ad36f1bde7ba2dfae029472c47e01e482bc77c6ba4f1dad59f3f04ee81cb597618ff7c30a33c157c0a20462b6dd6aa2d4d
   languageName: node
   linkType: hard
 
@@ -6910,11 +6910,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^5.0.1":
-  version: 5.1.1
-  resolution: "minimatch@npm:5.1.1"
+  version: 5.1.2
+  resolution: "minimatch@npm:5.1.2"
   dependencies:
     brace-expansion: ^2.0.1
-  checksum: 215edd0978320a3354188f84a537d45841f2449af4df4379f79b9b777e71aa4f5722cc9d1717eabd2a70d38ef76ab7b708d24d83ea6a6c909dfd8833de98b437
+  checksum: 32ffda25b9fb8270a1c1beafdb7489dc0e411af553495136509a945691f63c9b6b000eeeaaf8bffe3efa609c1d6d3bc0f5a106f6c3443b5c05da649100ded964
   languageName: node
   linkType: hard
 
@@ -9561,7 +9561,7 @@ __metadata:
   resolution: "web@workspace:frontend/apps/web"
   dependencies:
     "@types/node": 18.0.6
-    "@types/react": 18.0.21
+    "@types/react": 18.0.26
     "@types/react-dom": 18.0.6
     eslint: 8.25.0
     eslint-config-next: 12.3.1
