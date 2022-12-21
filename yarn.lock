@@ -2993,7 +2993,7 @@ __metadata:
     "@types/prettier": 2.7.1
     aws-cdk: 2.46.0
     aws-cdk-lib: 2.46.0
-    constructs: ^10.1.133
+    constructs: ^10.1.189
     jest: ^27.5.1
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
@@ -3275,10 +3275,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"constructs@npm:^10.1.133":
-  version: 10.1.140
-  resolution: "constructs@npm:10.1.140"
-  checksum: ea3b891980b591991acef80b4564ddfffcd5abeeb283aaa0d00cca5d13e863438918f926278276f602a73135157b9e92791c867eade677dd723e4f0f902a64b4
+"constructs@npm:^10.1.189":
+  version: 10.1.196
+  resolution: "constructs@npm:10.1.196"
+  checksum: 0af5aba97d60cf34331531f4d673e7811576939af9c78d4a32be88f673eebe06cf2ee10991a87f081bb9e28e983dfea38078e6b58e2740ab090793adee860165
   languageName: node
   linkType: hard
 
