@@ -496,13 +496,13 @@ __metadata:
   linkType: hard
 
 "@babel/types@npm:^7.8.3":
-  version: 7.20.5
-  resolution: "@babel/types@npm:7.20.5"
+  version: 7.20.7
+  resolution: "@babel/types@npm:7.20.7"
   dependencies:
     "@babel/helper-string-parser": ^7.19.4
     "@babel/helper-validator-identifier": ^7.19.1
     to-fast-properties: ^2.0.0
-  checksum: 773f0a1ad9f6ca5c5beaf751d1d8d81b9130de87689d1321fc911d73c3b1167326d66f0ae086a27fb5bfc8b4ee3ffebf1339be50d3b4d8015719692468c31f2d
+  checksum: b39af241f0b72bba67fd6d0d23914f6faec8c0eba8015c181cbd5ea92e59fc91a52a1ab490d3520c7dbd19ddb9ebb76c476308f6388764f16d8201e37fae6811
   languageName: node
   linkType: hard
 
@@ -2993,7 +2993,7 @@ __metadata:
     "@types/prettier": 2.7.1
     aws-cdk: 2.46.0
     aws-cdk-lib: 2.46.0
-    constructs: ^10.1.189
+    constructs: ^10.1.190
     jest: ^27.5.1
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
@@ -3275,7 +3275,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"constructs@npm:^10.1.189":
+"constructs@npm:^10.1.190":
   version: 10.1.196
   resolution: "constructs@npm:10.1.196"
   checksum: 0af5aba97d60cf34331531f4d673e7811576939af9c78d4a32be88f673eebe06cf2ee10991a87f081bb9e28e983dfea38078e6b58e2740ab090793adee860165
