@@ -95,6 +95,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@aws-cdk/asset-awscli-v1@npm:^2.2.30":
+  version: 2.2.39
+  resolution: "@aws-cdk/asset-awscli-v1@npm:2.2.39"
+  checksum: 461b1a24a49a4ad49daa112a6a4d07de3de118eb692ca54a32725a834a67f08087ddd3d02144c0eb6254f8cb0c43fac3749fc6befa8e1220fd9b19a9ead9fcfb
+  languageName: node
+  linkType: hard
+
+"@aws-cdk/asset-kubectl-v20@npm:^2.1.1":
+  version: 2.1.1
+  resolution: "@aws-cdk/asset-kubectl-v20@npm:2.1.1"
+  checksum: f5883fae7b6d3d17e5125560a6efa5065d8b319c11ea6639caa68e315427c4fa266433db04b1a776cf12ccc8c8f8e9a3dfc0ac8cc3c0e73545f80b07808281e2
+  languageName: node
+  linkType: hard
+
+"@aws-cdk/asset-node-proxy-agent-v5@npm:^2.0.38":
+  version: 2.0.38
+  resolution: "@aws-cdk/asset-node-proxy-agent-v5@npm:2.0.38"
+  checksum: 05303f68aa9cd772cb93c2d9c6eef42da1b559ed3fd80d7257d07cda57290b1a2dca87eaf7b92e54e5ab7051cc84564f94e24c209ebb85100728c87b1827d88c
+  languageName: node
+  linkType: hard
+
 "@babel/code-frame@npm:^7.0.0, @babel/code-frame@npm:^7.12.13, @babel/code-frame@npm:^7.16.7":
   version: 7.16.7
   resolution: "@babel/code-frame@npm:7.16.7"
@@ -2575,14 +2596,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.46.0":
-  version: 2.46.0
-  resolution: "aws-cdk-lib@npm:2.46.0"
+"aws-cdk-lib@npm:2.55.1":
+  version: 2.55.1
+  resolution: "aws-cdk-lib@npm:2.55.1"
   dependencies:
+    "@aws-cdk/asset-awscli-v1": ^2.2.30
+    "@aws-cdk/asset-kubectl-v20": ^2.1.1
+    "@aws-cdk/asset-node-proxy-agent-v5": ^2.0.38
     "@balena/dockerignore": ^1.0.2
     case: 1.6.3
     fs-extra: ^9.1.0
-    ignore: ^5.2.0
+    ignore: ^5.2.1
     jsonschema: ^1.4.1
     minimatch: ^3.1.2
     punycode: ^2.1.1
@@ -2590,13 +2614,13 @@ __metadata:
     yaml: 1.10.2
   peerDependencies:
     constructs: ^10.0.0
-  checksum: 2f096ee40073f38fe4e7ba00f7e8757e1258865421c90361501f9a51551740ceada34b91999249586219b9b8b9ca876015b3d72471defd1624d000e1ad7d511e
+  checksum: 3edce3290b3550a2514dc2434f44108b5482e4ccfd11154fe6a04ec65a30b76efa94621bab5694ac1b049baacdb863897953f79c11eb4d4d5341a8582f94bad2
   languageName: node
   linkType: hard
 
-"aws-cdk@npm:2.46.0":
-  version: 2.46.0
-  resolution: "aws-cdk@npm:2.46.0"
+"aws-cdk@npm:2.55.1":
+  version: 2.55.1
+  resolution: "aws-cdk@npm:2.55.1"
   dependencies:
     fsevents: 2.3.2
   dependenciesMeta:
@@ -2604,7 +2628,7 @@ __metadata:
       optional: true
   bin:
     cdk: bin/cdk
-  checksum: 0eb3438087377f901c392865f5269319aadee566ee778b2f6c46eef54bf084dd5beba332cd43e13e9b34740f9a42221314b8e1308e1db6018207d8cdd28507df
+  checksum: 7af0b1d4e6fe36e21cea893cced3c825d806daeb3a6282d5fd626ff5778af56f192b7654e473532de03d3fff8594dcbec72fe3582de9f361aad9da4155682a93
   languageName: node
   linkType: hard
 
@@ -2981,8 +3005,8 @@ __metadata:
     "@types/jest": ^27.5.2
     "@types/node": 10.17.60
     "@types/prettier": 2.7.1
-    aws-cdk: 2.46.0
-    aws-cdk-lib: 2.46.0
+    aws-cdk: 2.55.1
+    aws-cdk-lib: 2.55.1
     constructs: ^10.1.192
     jest: ^27.5.1
     source-map-support: ^0.5.21
@@ -5058,6 +5082,13 @@ __metadata:
   version: 5.2.0
   resolution: "ignore@npm:5.2.0"
   checksum: 6b1f926792d614f64c6c83da3a1f9c83f6196c2839aa41e1e32dd7b8d174cef2e329d75caabb62cb61ce9dc432f75e67d07d122a037312db7caa73166a1bdb77
+  languageName: node
+  linkType: hard
+
+"ignore@npm:^5.2.1":
+  version: 5.2.4
+  resolution: "ignore@npm:5.2.4"
+  checksum: 3d4c309c6006e2621659311783eaea7ebcd41fe4ca1d78c91c473157ad6666a57a2df790fe0d07a12300d9aac2888204d7be8d59f9aaf665b1c7fcdb432517ef
   languageName: node
   linkType: hard
 
