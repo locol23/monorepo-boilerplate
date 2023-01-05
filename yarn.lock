@@ -2603,9 +2603,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"aws-cdk-lib@npm:2.57.0":
-  version: 2.57.0
-  resolution: "aws-cdk-lib@npm:2.57.0"
+"aws-cdk-lib@npm:2.58.0":
+  version: 2.58.0
+  resolution: "aws-cdk-lib@npm:2.58.0"
   dependencies:
     "@aws-cdk/asset-awscli-v1": ^2.2.30
     "@aws-cdk/asset-kubectl-v20": ^2.1.1
@@ -2621,13 +2621,13 @@ __metadata:
     yaml: 1.10.2
   peerDependencies:
     constructs: ^10.0.0
-  checksum: d2d0a2083d2f101d1d5de9a33f3a0c3b60513eafc3d74d382f4149189b1412abd7b97f037c298cfcdb1bdb83fd7de6502f93bb4b98d25b215b5f6e4ad66d7c11
+  checksum: 56231c6a25aaaa0162b40a91bfa8470c7ea7470a6766fe44de1773c37a912526f32a081fa4aee393cd74d93db2f7ade297bdf7f2f35bc9319d833e94b5f2389e
   languageName: node
   linkType: hard
 
-"aws-cdk@npm:2.57.0":
-  version: 2.57.0
-  resolution: "aws-cdk@npm:2.57.0"
+"aws-cdk@npm:2.58.0":
+  version: 2.58.0
+  resolution: "aws-cdk@npm:2.58.0"
   dependencies:
     fsevents: 2.3.2
   dependenciesMeta:
@@ -2635,7 +2635,7 @@ __metadata:
       optional: true
   bin:
     cdk: bin/cdk
-  checksum: 34d8c08775eca3195cc009d3691ece67b457a44b44c51863e6cc72cb3675650f7ff5decdaeb6421ac67f9e2a9ccfa9a79b2f54517c1a29818919790cf0974fe1
+  checksum: 031a876e1b9f0833f62b0964bd26c12c871d3bc465eeea8f91de185076581a74e92888106c73a0caeba56c7ef5bbb33a89491a5cc01d4415c56bbf2ed53b2277
   languageName: node
   linkType: hard
 
@@ -3012,8 +3012,8 @@ __metadata:
     "@types/jest": ^27.5.2
     "@types/node": 10.17.60
     "@types/prettier": 2.7.2
-    aws-cdk: 2.57.0
-    aws-cdk-lib: 2.57.0
+    aws-cdk: 2.58.0
+    aws-cdk-lib: 2.58.0
     constructs: ^10.1.203
     jest: ^27.5.1
     source-map-support: ^0.5.21
