@@ -3014,7 +3014,7 @@ __metadata:
     "@types/prettier": 2.7.2
     aws-cdk: 2.58.0
     aws-cdk-lib: 2.58.0
-    constructs: ^10.1.203
+    constructs: ^10.1.204
     jest: ^27.5.1
     source-map-support: ^0.5.21
     ts-jest: ^27.1.5
@@ -3296,10 +3296,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"constructs@npm:^10.1.203":
-  version: 10.1.203
-  resolution: "constructs@npm:10.1.203"
-  checksum: 4df73550b1acacb899e404d7fe398a16ace20707b347884fbe8cf847e9c09946bee6014f1633802e0e6b1a3af146c175d9bc6d696b7ede993c457ae519a5f090
+"constructs@npm:^10.1.204":
+  version: 10.1.211
+  resolution: "constructs@npm:10.1.211"
+  checksum: d0b0377f9c7398b64da78fdcddf2387c489accf1ef54a94534925767fb1f30e7b81d661e0ca1996cd6e4c6ef5f28475458a19bdf26a8a847f3717c6978aaf128
   languageName: node
   linkType: hard
 
@@ -3799,12 +3799,13 @@ __metadata:
   linkType: hard
 
 "es-set-tostringtag@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "es-set-tostringtag@npm:2.0.0"
+  version: 2.0.1
+  resolution: "es-set-tostringtag@npm:2.0.1"
   dependencies:
     get-intrinsic: ^1.1.3
+    has: ^1.0.3
     has-tostringtag: ^1.0.0
-  checksum: 3dc021e4229eda90da80566adde6e9230c973d275da431c89e72b22cfefc1ccd5c344b08da85c6efe9ae8ce5eb16f63495c5024f6c75056811fbc56dc6c06318
+  checksum: ec416a12948cefb4b2a5932e62093a7cf36ddc3efd58d6c58ca7ae7064475ace556434b869b0bbeb0c365f1032a8ccd577211101234b69837ad83ad204fff884
   languageName: node
   linkType: hard
 
@@ -5219,12 +5220,13 @@ __metadata:
   linkType: hard
 
 "is-array-buffer@npm:^3.0.0":
-  version: 3.0.0
-  resolution: "is-array-buffer@npm:3.0.0"
+  version: 3.0.1
+  resolution: "is-array-buffer@npm:3.0.1"
   dependencies:
     call-bind: ^1.0.2
     get-intrinsic: ^1.1.3
-  checksum: 46ed004b0e3d8a60a7989a4ddbea8f8dfa2f5c7679a9d678c1439e710709b1f51b7abf56025106c87452b8605922c088f487c7a0847be27d2f6e533221ea44e3
+    is-typed-array: ^1.1.10
+  checksum: f26ab87448e698285daf707e52a533920449f7abf63714140ffab9d5571aa5a71ac2fa2677e8b793ad0d5d3e40078d4d2c8a0ab39c957e3cfc6513bb6c9dfdc9
   languageName: node
   linkType: hard
 
