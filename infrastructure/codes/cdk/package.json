@@ -12,14 +12,14 @@
     "@types/jest": "^27.5.2",
     "@types/node": "10.17.60",
     "@types/prettier": "2.7.2",
-    "aws-cdk": "2.58.0",
+    "aws-cdk": "2.58.1",
     "jest": "^27.5.1",
     "ts-jest": "^27.1.5",
     "ts-node": "^10.9.1",
     "typescript": "~4.9.4"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.58.0",
+    "aws-cdk-lib": "2.58.1",
     "constructs": "^10.1.204",
     "source-map-support": "^0.5.21"
   }
