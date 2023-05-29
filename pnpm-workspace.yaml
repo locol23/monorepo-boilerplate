@@ -1,0 +1,7 @@
+packages:
+  - 'frontend/apps/*'
+  - 'frontend/libs/*'
+  - 'bff/services/*'
+  - 'bff/libs/*'
+  - 'infrastructure/**/*'
+

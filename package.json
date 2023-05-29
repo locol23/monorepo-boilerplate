@@ -1,14 +1,7 @@
 {
   "name": "monorepo-boilerplate",
   "private": true,
-  "packageManager": "yarn@3.3.1",
-  "workspaces": [
-    "frontend/apps/*",
-    "frontend/libs/*",
-    "bff/services/*",
-    "bff/libs/*",
-    "infrastructure/**/*"
-  ],
+  "packageManager": "pnpm@8.6.0",
   "scripts": {
     "clean": "bazel clean",
     "build": "run-p build:turbo build:bazel",
