@@ -12,8 +12,8 @@ importers:
         specifier: ^1.12.1
         version: 1.12.1
       '@bazel/buildifier':
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^6.4.0
+        version: 6.4.0
       '@bazel/ibazel':
         specifier: ^0.16.2
         version: 0.16.2
@@ -617,8 +617,8 @@ packages:
     hasBin: true
     dev: true
 
-  /@bazel/buildifier@5.1.0:
-    resolution: {integrity: sha512-gO0+//hkH+iE3AQ02mYttJAcWiE+rapP8IxmstDhwSqs+CmZJJI8Q1vAaIvMyJUT3NIf7lGljRNpzclkCPk89w==}
+  /@bazel/buildifier@6.4.0:
+    resolution: {integrity: sha512-upvdCVlXYOatvank2Ch5lfNe9Msgny1Fozdz4fIm8diVju4Kd2JmA9DVS/Tg8UlFX/ItAL1PdSyefWK8Ashwdg==}
     hasBin: true
     dev: true
 
